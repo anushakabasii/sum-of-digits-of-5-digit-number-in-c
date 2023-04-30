@@ -1,0 +1,1 @@
+# sum-of-digits-of-5-digit-number-in-c
